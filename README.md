@@ -37,6 +37,7 @@ Built with Streamlit (clean hospital dashboard)
 FastAPI for high-performance serving
 
 🏗️ Architecture
+
 User Query
    ↓
 Query Router  →  (DB / FAISS / Web)
@@ -46,7 +47,9 @@ Context Retrieval
 LLM (OpenAI)
    ↓
 Final Answer
+
 📁 Project Structure
+
 Multi_RAG/
 │
 ├── app/
@@ -66,6 +69,8 @@ Multi_RAG/
 ├── .env
 ├── requirements.txt
 └── README.md
+
+
 ⚙️ Tech Stack
 
 🐍 Python
@@ -82,12 +87,14 @@ Multi_RAG/
 
 🌐 SerpAPI
 
+
 🔐 Environment Variables
 
 Create a .env file:
 
 OPENAI_API_KEY=your_openai_key
 SERPAPI_KEY=your_serpapi_key
+
 
 📦 Installation
 git clone https://github.com/your-username/multi-rag-medical-assistant.git
