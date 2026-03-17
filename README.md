@@ -104,15 +104,20 @@ python -m venv venv
 venv\Scripts\activate   # Windows
 
 pip install -r requirements.txt
+
 ▶️ Run the Application
+
 1️⃣ Start FastAPI Backend
 uvicorn app.main:app --reload
 
 👉 Runs at:
 http://127.0.0.1:8000/docs
 
+
 2️⃣ Start Streamlit UI
 streamlit run app/ui.py
+
+
 🔍 Sample Queries
 
 “Best hospital near Bangalore”
