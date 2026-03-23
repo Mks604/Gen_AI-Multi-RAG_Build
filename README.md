@@ -162,8 +162,13 @@ OPENAI_API_KEY
 
 
 💡 Author
-
 Kumar K
+
+## 📜 License
+
+© 2026 Kumar K. All rights reserved.
+
+This project is for educational and portfolio purposes.
 
 
 🔥 Built with passion for AI & real-world impact
